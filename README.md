@@ -1,2 +1,3 @@
 # hello-world
-Week 1 Lab Report
+
+This is the initial repo of exploring Github.
